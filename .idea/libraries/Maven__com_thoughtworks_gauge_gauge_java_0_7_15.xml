@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.thoughtworks.gauge:gauge-java:0.7.15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
